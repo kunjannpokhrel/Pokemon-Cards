@@ -14,6 +14,11 @@ A Python project that takes a Pokemon name from the user, retrieves its informat
 *  Change the card background based on Pokemon type
 *  Handle invalid Pokemon names
 
+## Installation
+
+Install the external Python packages with:
+Type this in Terminal:
+pip install requests pillow
 
 ## Technologies Used
 
